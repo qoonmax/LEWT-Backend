@@ -1,0 +1,3 @@
+[submodule "macOSClient"]
+	path = macOSClient
+	url = git@github.com:qoonmax/LEWT-Client.git
