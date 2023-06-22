@@ -9,4 +9,6 @@
 Получившийся текст на английском языке будет доступен по localhost:3333.
 Клиентская часть приложения получает по http с бэкенда строку с английским языком и выводит в TouchBar.
 
-![](https://github.com/qoonmax/LEWT-Client/blob/main/LEWT%20Client/show.gif)
+<img src="https://github.com/qoonmax/LEWT-Client/blob/main/LEWT%20Client/show_2.gif" width="auto">
+
+<img src="https://github.com/qoonmax/LEWT-Client/blob/main/LEWT%20Client/show.gif" width="auto">
