@@ -14,6 +14,6 @@ TODO:
 
 ### Превью
 
-<img src="https://github.com/qoonmax/LEWT-Client/blob/main/LEWT%20Client/show_2.gif" width="auto">
+<img src="https://github.com/qoonmax/LEWT-Backend/blob/main/show_2.gif" width="auto">
 
-<img src="https://github.com/qoonmax/LEWT-Client/blob/main/LEWT%20Client/show.gif" width="auto">
+<img src="https://github.com/qoonmax/LEWT-Backend/blob/main/show.gif" width="auto">
